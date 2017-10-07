@@ -1,2 +1,1 @@
-# loan_predict
-This repository contains a code to predict loan approvals for customers by using logistic regression algorithm in machine learning.  
+This repository contains a code to predict loan approvals for customers by using logistic regression algorithm in machine learning.  The code was originally implemented on Python version 3.4.0. It can be run on other versions of python but the package versions- for numpy, pandas, matplotlib- have to installed accordingly.
